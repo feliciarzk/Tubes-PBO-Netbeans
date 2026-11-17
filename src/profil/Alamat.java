@@ -1,3 +1,5 @@
+package profil;
+
 public class Alamat {
     private String jalan;
     private String kota;

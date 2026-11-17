@@ -1,3 +1,6 @@
+package profil;
+
+import profil.Alamat;
 import java.util.Map;
 
 public class Customer extends User {

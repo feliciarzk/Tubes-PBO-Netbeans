@@ -1,3 +1,6 @@
+package profil;
+
+import profil.User;
 import java.util.Map;
 
 public class Admin extends User {
